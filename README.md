@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Sorting
 |  |
