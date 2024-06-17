@@ -24,4 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/ravi29125/My_Coding_works/tree/master/0633-sum-of-square-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/ravi29125/My_Coding_works/tree/master/2284-smallest-value-of-the-rearranged-number) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ravi29125/My_Coding_works/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ravi29125/My_Coding_works/tree/master/0633-sum-of-square-numbers) |
