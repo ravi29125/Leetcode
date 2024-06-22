@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravi29125/My_Coding_works/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 # Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ravi29125/My_Coding_works/tree/master/1372-check-if-it-is-a-good-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/ravi29125/My_Coding_works/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -88,3 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
+# Dynamic Programming
+|  |
+| ------- |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
