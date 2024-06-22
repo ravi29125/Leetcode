@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -72,5 +73,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
 | [1138-grumpy-bookstore-owner](https://github.com/ravi29125/My_Coding_works/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1370-count-number-of-nice-subarrays) |
+# Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
+# Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
