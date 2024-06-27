@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
+| [0561-array-partition](https://github.com/ravi29125/My_Coding_works/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
+| [0561-array-partition](https://github.com/ravi29125/My_Coding_works/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ravi29125/My_Coding_works/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
@@ -153,3 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ravi29125/My_Coding_works/tree/master/0561-array-partition) |
