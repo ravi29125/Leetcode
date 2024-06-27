@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
 # Sorting
 |  |
 | ------- |
@@ -128,3 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ravi29125/My_Coding_works/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
+# Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
+# Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
