@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ravi29125/My_Coding_works/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 # Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1370-count-number-of-nice-subarrays) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ravi29125/My_Coding_works/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
 # Prefix Sum
 |  |
@@ -125,3 +127,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ravi29125/My_Coding_works/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
