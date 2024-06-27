@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/ravi29125/My_Coding_works/tree/master/1372-check-if-it-is-a-good-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravi29125/My_Coding_works/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/ravi29125/My_Coding_works/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
