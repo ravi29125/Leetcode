@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ravi29125/My_Coding_works/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/ravi29125/My_Coding_works/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ravi29125/My_Coding_works/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ravi29125/My_Coding_works/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
 # Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ravi29125/My_Coding_works/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/ravi29125/My_Coding_works/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
