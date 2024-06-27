@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-sum-of-beauty-in-the-array](https://github.com/ravi29125/My_Coding_works/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 # Greedy
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/ravi29125/My_Coding_works/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Counting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ravi29125/My_Coding_works/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1285-balance-a-binary-search-tree) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Tree
 |  |
 | ------- |
