@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1285-balance-a-binary-search-tree) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
 # Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
 # Math
 |  |
 | ------- |
@@ -119,3 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1916-find-center-of-star-graph) |
+# String
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
