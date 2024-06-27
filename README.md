@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ravi29125/My_Coding_works/tree/master/0239-sliding-window-maximum) |
 | [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
+| [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1138-grumpy-bookstore-owner](https://github.com/ravi29125/My_Coding_works/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1370-count-number-of-nice-subarrays) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/ravi29125/My_Coding_works/tree/master/0330-patching-array) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
+| [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ravi29125/My_Coding_works/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ravi29125/My_Coding_works/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
+| [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 # Binary Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ravi29125/My_Coding_works/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
