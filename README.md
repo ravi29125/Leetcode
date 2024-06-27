@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ravi29125/My_Coding_works/tree/master/1372-check-if-it-is-a-good-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/ravi29125/My_Coding_works/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ravi29125/My_Coding_works/tree/master/2812-find-the-maximum-achievable-number) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 # Two Pointers
 |  |
