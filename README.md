@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ravi29125/My_Coding_works/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/ravi29125/My_Coding_works/tree/master/0853-most-profit-assigning-work) |
 | [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
+| [2128-reverse-prefix-of-word](https://github.com/ravi29125/My_Coding_works/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ravi29125/My_Coding_works/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Binary Search
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0979-di-string-match](https://github.com/ravi29125/My_Coding_works/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2128-reverse-prefix-of-word](https://github.com/ravi29125/My_Coding_works/tree/master/2128-reverse-prefix-of-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ravi29125/My_Coding_works/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/My_Coding_works/tree/master/2456-construct-smallest-number-from-di-string) |
 # Backtracking
