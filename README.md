@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ravi29125/My_Coding_works/tree/master/1675-magnetic-force-between-two-balls) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ravi29125/My_Coding_works/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 # Greedy
 |  |
