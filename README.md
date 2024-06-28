@@ -163,3 +163,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ravi29125/My_Coding_works/tree/master/0561-array-partition) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
