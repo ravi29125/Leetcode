@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ravi29125/My_Coding_works/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ravi29125/My_Coding_works/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -339,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ravi29125/My_Coding_works/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
