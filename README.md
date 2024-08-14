@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3486-count-the-number-of-good-nodes](https://github.com/ravi29125/My_Coding_works/tree/master/3486-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ravi29125/My_Coding_works/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3486-count-the-number-of-good-nodes](https://github.com/ravi29125/My_Coding_works/tree/master/3486-count-the-number-of-good-nodes) |
 ## Binary Tree
 |  |
 | ------- |
