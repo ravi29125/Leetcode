@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ravi29125/My_Coding_works/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravi29125/My_Coding_works/tree/master/0084-largest-rectangle-in-histogram) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/ravi29125/My_Coding_works/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/ravi29125/My_Coding_works/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi29125/My_Coding_works/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravi29125/My_Coding_works/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ravi29125/My_Coding_works/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravi29125/My_Coding_works/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ravi29125/My_Coding_works/tree/master/0789-kth-largest-element-in-a-stream) |
