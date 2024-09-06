@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ravi29125/My_Coding_works/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/ravi29125/My_Coding_works/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/ravi29125/My_Coding_works/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ravi29125/My_Coding_works/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/ravi29125/My_Coding_works/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravi29125/My_Coding_works/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ravi29125/My_Coding_works/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
