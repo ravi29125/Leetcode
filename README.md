@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/ravi29125/My_Coding_works/tree/master/1642-water-bottles) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ravi29125/My_Coding_works/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ravi29125/My_Coding_works/tree/master/1511-count-number-of-teams) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
