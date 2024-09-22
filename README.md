@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ravi29125/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ravi29125/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ravi29125/My_Coding_works/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ravi29125/My_Coding_works/tree/master/0890-lemonade-change) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ravi29125/My_Coding_works/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ravi29125/My_Coding_works/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ravi29125/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/ravi29125/My_Coding_works/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi29125/My_Coding_works/tree/master/0064-minimum-path-sum) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ravi29125/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi29125/My_Coding_works/tree/master/0064-minimum-path-sum) |
