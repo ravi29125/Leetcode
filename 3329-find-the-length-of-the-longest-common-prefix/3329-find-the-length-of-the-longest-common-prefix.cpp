@@ -34,9 +34,12 @@ public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
         st=new trie('\0');
         for(int i:arr1) add(i);
+        unordered_map<int,int> mp;
         int mx=0;
         for(int i:arr2){
-            mx=max(mx,help(i));
+            if(mp.find(i)==mp.end())
+            mp[i]=help(i);
+            mx=max(mx,mp[i]);
         }
         return mx;
     }
