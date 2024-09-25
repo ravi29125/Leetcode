@@ -10,7 +10,7 @@ class Solution {
                 while(num>0 && num%i==0){
                     num/=i;
                 }
-                help(num);
+                //help(num);
             }
         }
     }
