@@ -6,7 +6,11 @@ class Solution {
         for(int i:a){
             if(num%i==0){
                 mp[i]++;
-                help(num/i);
+                //cout<<i<<" ";
+                while(num>0 && num%i==0){
+                    num/=i;
+                }
+                help(num);
                 return ;
             }
         }
