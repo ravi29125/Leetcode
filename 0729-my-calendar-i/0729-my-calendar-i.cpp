@@ -14,7 +14,7 @@ public:
             if(start<r && r<=end)return false;
         }
         ls.push_back({start,end});
-        sort(ls.begin(),ls.end());
+        //sort(ls.begin(),ls.end());
         return true;
     }
 };
