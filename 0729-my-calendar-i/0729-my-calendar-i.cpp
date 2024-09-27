@@ -1,26 +1,52 @@
+class Node{
+    public:
+    int l;
+    int r;
+    Node *right,*left;
+    Node(int l,int r){
+        this->l=l;
+        this->r=r;
+        right=left=nullptr;
+    }
+};
 class MyCalendar {
-    vector<vector<int>> ls;
+    Node *st;
 public:
     MyCalendar() {
-        ls=vector<vector<int>>();
+        st=nullptr;
     }
     
-    bool book(int start, int end) {
-        for(auto k:ls){
-            int l=k[0],r=k[1];
-            if(l<start && start<r)return false;
-            if(l<end && end<=r)return false;
-            if(start<l && l<end)return false;
-            if(start<r && r<=end)return false;
+    bool help(int l,int r,Node * root){
+        if(root->l>l && root->l>=r){
+            if(root->left==nullptr){
+                root->left=new Node(l,r);
+                return true;
+            }else{
+                return help(l,r,root->left);
+            }
         }
-        ls.push_back({start,end});
-        //sort(ls.begin(),ls.end());
-        return true;
+        if(root->r<=l && root->r<r){
+            if(root->right==nullptr){
+                root->right=new Node(l,r);
+                return true;
+            }else{
+                return help(l,r,root->right);
+            }
+        }return false;
+    }
+
+    bool book(int start, int end) {
+        if(st==nullptr){
+            st=new Node(start,end);
+            return true;
+        }else{
+            return help(start,end,st);
+        }return true;
     }
 };
 
 /**
- * Your MyCalendar object will be instantiated and called as such:
- * MyCalendar* obj = new MyCalendar();
+ * Your MyCalendarTwo object will be instantiated and called as such:
+ * MyCalendarTwo* obj = new MyCalendarTwo();
  * bool param_1 = obj->book(start,end);
  */
