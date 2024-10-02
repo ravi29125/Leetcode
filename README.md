@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/ravi29125/My_Coding_works/tree/master/0726-number-of-atoms) |
 | [0917-boats-to-save-people](https://github.com/ravi29125/My_Coding_works/tree/master/0917-boats-to-save-people) |
+| [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ravi29125/My_Coding_works/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ravi29125/My_Coding_works/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ravi29125/My_Coding_works/tree/master/0917-boats-to-save-people) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ravi29125/My_Coding_works/tree/master/1293-three-consecutive-odds) |
 | [1428-jump-game-iii](https://github.com/ravi29125/Leetcode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ravi29125/My_Coding_works/tree/master/1435-xor-queries-of-a-subarray) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravi29125/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ravi29125/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ravi29125/My_Coding_works/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravi29125/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
