@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi29125/My_Coding_works/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ravi29125/My_Coding_works/tree/master/0084-largest-rectangle-in-histogram) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi29125/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ravi29125/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ravi29125/Leetcode/tree/master/0179-largest-number) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi29125/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ravi29125/Leetcode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
