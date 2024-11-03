@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/ravi29125/My_Coding_works/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/ravi29125/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravi29125/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi29125/My_Coding_works/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ravi29125/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -613,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ravi29125/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
