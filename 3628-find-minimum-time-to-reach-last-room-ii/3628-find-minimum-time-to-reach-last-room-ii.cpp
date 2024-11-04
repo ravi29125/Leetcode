@@ -20,9 +20,9 @@ public:
                         }else{
                             pq.push({val,x,y,0});
                         }
-                        if(dp[n-1][m-1]!=INT_MAX)return val;
                     }
                 }
+                if(dp[n-1][m-1]!=INT_MAX)break;
             }
         }return dp[n-1][m-1];
     }
