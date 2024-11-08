@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/ravi29125/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ravi29125/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/ravi29125/My_Coding_works/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ravi29125/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ravi29125/My_Coding_works/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/ravi29125/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ravi29125/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravi29125/My_Coding_works/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ravi29125/My_Coding_works/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ravi29125/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Brainteaser
 |  |
