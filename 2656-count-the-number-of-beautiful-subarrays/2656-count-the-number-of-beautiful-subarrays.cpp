@@ -7,9 +7,7 @@ public:
         mp[0]++;
         for(int i:nums){
             num^=i;
-            if(mp.find(num)!=mp.end()){
-                cnt+=mp[num];
-            }
+            cnt+=mp[num];
             mp[num]++;
         }return cnt;
     }
