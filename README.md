@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/ravi29125/My_Coding_works/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/ravi29125/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ravi29125/My_Coding_works/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ravi29125/My_Coding_works/tree/master/2155-find-missing-observations) |
+| [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/ravi29125/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2645-pass-the-pillow](https://github.com/ravi29125/My_Coding_works/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ravi29125/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ravi29125/My_Coding_works/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/ravi29125/Leetcode/tree/master/2580-circular-sentence) |
+| [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
 | [2727-number-of-senior-citizens](https://github.com/ravi29125/My_Coding_works/tree/master/2727-number-of-senior-citizens) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ravi29125/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ravi29125/My_Coding_works/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ravi29125/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
+| [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
 ## Trie
 |  |
 | ------- |
