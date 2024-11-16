@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ravi29125/My_Coding_works/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravi29125/My_Coding_works/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ravi29125/My_Coding_works/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravi29125/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravi29125/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/ravi29125/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravi29125/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Segment Tree
 |  |
 | ------- |
