@@ -6,7 +6,7 @@ public:
         int n=str1.size(),m=str2.size();
         for(int i=0;i<n&&j<m;i++){
             //cout<<((str1[i]-'a')+1)%26<<" "<<(str2[j]-'a')%25<<endl;
-            if(str1[i]==str2[j] || ((str1[i]-'a'+1)+1)%26 == (str2[j]-'a'+1)%26){
+            if(str1[i]==str2[j] || ((str1[i]-'a')+1)%26 == (str2[j]-'a')%26){
                 j++;
             }
         }
