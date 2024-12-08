@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ravi29125/My_Coding_works/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ravi29125/My_Coding_works/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/ravi29125/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/ravi29125/My_Coding_works/tree/master/0917-boats-to-save-people) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ravi29125/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ravi29125/Leetcode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
+| [0907-koko-eating-bananas](https://github.com/ravi29125/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ravi29125/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ravi29125/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1615-range-sum-of-sorted-subarray-sums) |
