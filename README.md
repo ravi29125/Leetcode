@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3486-count-the-number-of-good-nodes](https://github.com/ravi29125/My_Coding_works/tree/master/3486-count-the-number-of-good-nodes) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1484-linked-list-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ravi29125/My_Coding_works/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ravi29125/My_Coding_works/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ravi29125/My_Coding_works/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3486-count-the-number-of-good-nodes](https://github.com/ravi29125/My_Coding_works/tree/master/3486-count-the-number-of-good-nodes) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ravi29125/My_Coding_works/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
 |  |
