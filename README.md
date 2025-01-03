@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ravi29125/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravi29125/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/ravi29125/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2388-replace-elements-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/ravi29125/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ravi29125/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
