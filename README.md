@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravi29125/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ravi29125/My_Coding_works/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ravi29125/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ravi29125/My_Coding_works/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ravi29125/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ravi29125/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ravi29125/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ravi29125/My_Coding_works/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ravi29125/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/ravi29125/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/ravi29125/My_Coding_works/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ravi29125/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ravi29125/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ravi29125/My_Coding_works/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
