@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ravi29125/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ravi29125/My_Coding_works/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ravi29125/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ravi29125/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ravi29125/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ravi29125/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ravi29125/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ravi29125/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/ravi29125/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ravi29125/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/ravi29125/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ravi29125/My_Coding_works/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ravi29125/My_Coding_works/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ravi29125/My_Coding_works/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ravi29125/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
