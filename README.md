@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/ravi29125/My_Coding_works/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ravi29125/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ravi29125/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ravi29125/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ravi29125/My_Coding_works/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ravi29125/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ravi29125/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ravi29125/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ravi29125/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravi29125/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/ravi29125/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
