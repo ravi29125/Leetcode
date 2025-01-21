@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ravi29125/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2145-grid-game](https://github.com/ravi29125/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/ravi29125/My_Coding_works/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ravi29125/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ravi29125/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/ravi29125/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/ravi29125/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ravi29125/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ravi29125/My_Coding_works/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2145-grid-game](https://github.com/ravi29125/Leetcode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravi29125/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
