@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/ravi29125/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ravi29125/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
+| [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/ravi29125/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1484-linked-list-in-binary-tree) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ravi29125/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/ravi29125/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/ravi29125/Leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ravi29125/My_Coding_works/tree/master/1484-linked-list-in-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ravi29125/My_Coding_works/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ravi29125/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ravi29125/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1428-jump-game-iii](https://github.com/ravi29125/Leetcode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ravi29125/My_Coding_works/tree/master/1435-xor-queries-of-a-subarray) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ravi29125/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ravi29125/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ravi29125/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ravi29125/My_Coding_works/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravi29125/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravi29125/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ravi29125/My_Coding_works/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -843,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/ravi29125/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
