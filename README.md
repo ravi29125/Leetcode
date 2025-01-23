@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
+| [0897-prime-palindrome](https://github.com/ravi29125/Leetcode/tree/master/0897-prime-palindrome) |
 | [1642-water-bottles](https://github.com/ravi29125/My_Coding_works/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ravi29125/My_Coding_works/tree/master/2155-find-missing-observations) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0897-prime-palindrome](https://github.com/ravi29125/Leetcode/tree/master/0897-prime-palindrome) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/ravi29125/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ravi29125/My_Coding_works/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
