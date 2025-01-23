@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ravi29125/My_Coding_works/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ravi29125/My_Coding_works/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ravi29125/My_Coding_works/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/ravi29125/My_Coding_works/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/ravi29125/My_Coding_works/tree/master/0377-combination-sum-iv) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ravi29125/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
