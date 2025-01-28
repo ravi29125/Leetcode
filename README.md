@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3486-count-the-number-of-good-nodes](https://github.com/ravi29125/My_Coding_works/tree/master/3486-count-the-number-of-good-nodes) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ravi29125/My_Coding_works/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ravi29125/My_Coding_works/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/ravi29125/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/ravi29125/My_Coding_works/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ravi29125/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ravi29125/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ravi29125/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Dynamic Programming
 |  |
@@ -869,5 +873,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ravi29125/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
