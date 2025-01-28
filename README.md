@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ravi29125/My_Coding_works/tree/master/0377-combination-sum-iv) |
 | [0407-trapping-rain-water-ii](https://github.com/ravi29125/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/ravi29125/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/ravi29125/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ravi29125/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ravi29125/My_Coding_works/tree/master/0624-maximum-distance-in-arrays) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/ravi29125/My_Coding_works/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/ravi29125/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ravi29125/Leetcode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ravi29125/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ravi29125/My_Coding_works/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
