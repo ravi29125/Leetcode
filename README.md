@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ravi29125/My_Coding_works/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravi29125/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ravi29125/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ravi29125/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ravi29125/My_Coding_works/tree/master/1720-crawler-log-folder) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ravi29125/My_Coding_works/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ravi29125/My_Coding_works/tree/master/0735-asteroid-collision) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ravi29125/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/ravi29125/My_Coding_works/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ravi29125/My_Coding_works/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/ravi29125/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ravi29125/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Combinatorics
