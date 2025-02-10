@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ravi29125/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/ravi29125/My_Coding_works/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ravi29125/My_Coding_works/tree/master/0917-boats-to-save-people) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/ravi29125/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ravi29125/My_Coding_works/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ravi29125/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ravi29125/My_Coding_works/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ravi29125/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/ravi29125/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ravi29125/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1428-jump-game-iii](https://github.com/ravi29125/Leetcode/tree/master/1428-jump-game-iii) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ravi29125/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ravi29125/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi29125/My_Coding_works/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/ravi29125/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravi29125/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ravi29125/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/ravi29125/My_Coding_works/tree/master/1720-crawler-log-folder) |
