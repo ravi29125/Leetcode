@@ -7,6 +7,7 @@ public:
         for(int i=0;i<n;i++){
             r+=ch;
             ch++;
+           // cout<<r<<" ";
             if(pattern[i]=='I'){
                 reverse(r.begin(),r.end());
                 s+=r;
