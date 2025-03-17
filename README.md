@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ravi29125/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/ravi29125/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravi29125/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/ravi29125/My_Coding_works/tree/master/0377-combination-sum-iv) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravi29125/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ravi29125/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ravi29125/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ravi29125/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1511-count-number-of-teams](https://github.com/ravi29125/My_Coding_works/tree/master/1511-count-number-of-teams) |
 ## Counting
 |  |
@@ -939,10 +942,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
 ## String Matching
 |  |
@@ -981,4 +986,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/ravi29125/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ravi29125/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
