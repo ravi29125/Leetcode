@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/ravi29125/Leetcode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/ravi29125/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/ravi29125/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/ravi29125/My_Coding_works/tree/master/0624-maximum-distance-in-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ravi29125/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0729-my-calendar-i](https://github.com/ravi29125/Leetcode/tree/master/0729-my-calendar-i) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi29125/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/ravi29125/Leetcode/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ravi29125/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0677-map-sum-pairs](https://github.com/ravi29125/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/ravi29125/My_Coding_works/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ravi29125/My_Coding_works/tree/master/0870-magic-squares-in-grid) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ravi29125/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ravi29125/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ravi29125/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ravi29125/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ravi29125/My_Coding_works/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ravi29125/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
