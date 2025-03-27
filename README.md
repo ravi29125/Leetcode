@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/ravi29125/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2388-replace-elements-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/ravi29125/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ravi29125/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ravi29125/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ravi29125/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/ravi29125/Leetcode/tree/master/2145-grid-game) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ravi29125/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2358-number-of-ways-to-split-array](https://github.com/ravi29125/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/ravi29125/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ravi29125/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ravi29125/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ravi29125/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/ravi29125/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ravi29125/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravi29125/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
