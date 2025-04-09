@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravi29125/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ravi29125/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ravi29125/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ravi29125/My_Coding_works/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ravi29125/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ravi29125/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Matrix
 |  |
 | ------- |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ravi29125/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ravi29125/My_Coding_works/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/ravi29125/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/ravi29125/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ravi29125/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1062,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ravi29125/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ravi29125/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ravi29125/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Rolling Hash
 |  |
 | ------- |
