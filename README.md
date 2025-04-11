@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/ravi29125/My_Coding_works/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ravi29125/My_Coding_works/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/ravi29125/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ravi29125/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ravi29125/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
+| [2998-count-symmetric-integers](https://github.com/ravi29125/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Rolling Hash
 |  |
 | ------- |
