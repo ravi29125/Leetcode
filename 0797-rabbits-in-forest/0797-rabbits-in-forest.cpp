@@ -8,10 +8,11 @@ public:
         for(int i=0;i<n;i++){
             s.insert(nums[i]);
             if(nums[i]==0)cnt++;
+            else
             mp[nums[i]]++;
         }
         int ans=0;
-        for(int i:s)if(i!=0){
+        for(int i:s){
             //if(mp[i]>1 && i<mp[i])
             ans+=((mp[i]+i)/(i+1))*(i+1);
         }
