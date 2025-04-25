@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ravi29125/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
+| [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2465-shifting-letters-ii](https://github.com/ravi29125/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravi29125/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ravi29125/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravi29125/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ravi29125/My_Coding_works/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ravi29125/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ravi29125/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2530-minimize-maximum-of-array](https://github.com/ravi29125/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ravi29125/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ravi29125/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ravi29125/My_Coding_works/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ravi29125/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
