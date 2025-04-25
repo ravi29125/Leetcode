@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ravi29125/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/ravi29125/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/ravi29125/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ravi29125/Leetcode/tree/master/2509-minimize-xor) |
 | [2530-minimize-maximum-of-array](https://github.com/ravi29125/Leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
 | [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/ravi29125/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2465-shifting-letters-ii](https://github.com/ravi29125/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravi29125/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2388-replace-elements-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
+| [2435-shortest-impossible-sequence-of-rolls](https://github.com/ravi29125/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ravi29125/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ravi29125/My_Coding_works/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
