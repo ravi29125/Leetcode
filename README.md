@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ravi29125/My_Coding_works/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ravi29125/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [3189-find-champion-ii](https://github.com/ravi29125/Leetcode/tree/master/3189-find-champion-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/ravi29125/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ravi29125/My_Coding_works/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ravi29125/My_Coding_works/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ravi29125/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/ravi29125/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ravi29125/My_Coding_works/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ravi29125/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ravi29125/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/ravi29125/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ravi29125/My_Coding_works/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/ravi29125/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ravi29125/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2388-replace-elements-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ravi29125/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/ravi29125/Leetcode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2430-number-of-excellent-pairs](https://github.com/ravi29125/Leetcode/tree/master/2430-number-of-excellent-pairs) |
@@ -917,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/ravi29125/Leetcode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravi29125/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ravi29125/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ravi29125/My_Coding_works/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ravi29125/My_Coding_works/tree/master/2472-build-a-matrix-with-conditions) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
@@ -952,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ravi29125/My_Coding_works/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ravi29125/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2530-minimize-maximum-of-array](https://github.com/ravi29125/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ravi29125/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -1126,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ravi29125/Leetcode/tree/master/0139-word-break) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ravi29125/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/ravi29125/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
