@@ -964,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ravi29125/My_Coding_works/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ravi29125/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2001-jump-game-vii](https://github.com/ravi29125/Leetcode/tree/master/2001-jump-game-vii) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/ravi29125/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2530-minimize-maximum-of-array](https://github.com/ravi29125/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ravi29125/Leetcode/tree/master/0139-word-break) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ravi29125/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/ravi29125/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [2404-number-of-distinct-roll-sequences](https://github.com/ravi29125/Leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/ravi29125/Leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
