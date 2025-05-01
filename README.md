@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/ravi29125/My_Coding_works/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ravi29125/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ravi29125/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ravi29125/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ravi29125/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ravi29125/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/ravi29125/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ravi29125/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ravi29125/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ravi29125/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ravi29125/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/ravi29125/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ravi29125/My_Coding_works/tree/master/2379-maximum-total-importance-of-roads) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/ravi29125/My_Coding_works/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ravi29125/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ravi29125/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ravi29125/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ravi29125/Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/ravi29125/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ravi29125/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ravi29125/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ravi29125/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ravi29125/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ravi29125/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravi29125/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ravi29125/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravi29125/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
@@ -1169,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ravi29125/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ravi29125/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bitmask
 |  |
 | ------- |
