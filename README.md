@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ravi29125/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/ravi29125/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/ravi29125/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/ravi29125/Leetcode/tree/master/2050-count-good-numbers) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/ravi29125/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/ravi29125/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/ravi29125/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravi29125/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/ravi29125/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ravi29125/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/ravi29125/Leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2998-count-symmetric-integers](https://github.com/ravi29125/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/ravi29125/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
