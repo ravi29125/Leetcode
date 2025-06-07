@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ravi29125/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3540-hash-divided-string](https://github.com/ravi29125/My_Coding_works/tree/master/3540-hash-divided-string) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/ravi29125/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Math
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/ravi29125/My_Coding_works/tree/master/3540-hash-divided-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ravi29125/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3696-count-substrings-divisible-by-last-digit](https://github.com/ravi29125/Leetcode/tree/master/3696-count-substrings-divisible-by-last-digit) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/ravi29125/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Stack
 |  |
 | ------- |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/ravi29125/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ravi29125/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/ravi29125/Leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
