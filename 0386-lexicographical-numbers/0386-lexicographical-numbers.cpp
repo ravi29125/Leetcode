@@ -1,10 +1,18 @@
 class Solution {
+    vector<int> arr;
+    void help(int n,int num){
+        if(num>n)return ;
+        for(int i=(num==0?1:0);i<=9;i++){
+            int val=num*10+i;
+            if(val<=n){
+                arr.push_back(val);
+                help(n,val);
+            }else break;
+        }
+    }
 public:
     vector<int> lexicalOrder(int n) {
-        vector<int> ans(n);
-        for(int i=0;i<n;i++){
-            ans[i]=i+1;
-        }sort(ans.begin(),ans.end(),[](int n1 , int n2){return to_string(n1)<to_string(n2);});
-        return ans;
+        help(n,0);
+        return arr;
     }
 };
