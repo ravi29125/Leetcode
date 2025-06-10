@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/ravi29125/Leetcode/tree/master/0897-prime-palindrome) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ravi29125/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/ravi29125/Leetcode/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ravi29125/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/ravi29125/My_Coding_works/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ravi29125/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ravi29125/Leetcode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ravi29125/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/ravi29125/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1720-crawler-log-folder](https://github.com/ravi29125/My_Coding_works/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ravi29125/My_Coding_works/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ravi29125/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
