@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ravi29125/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ravi29125/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/ravi29125/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0677-map-sum-pairs](https://github.com/ravi29125/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/ravi29125/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ravi29125/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/ravi29125/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/ravi29125/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ravi29125/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ravi29125/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ravi29125/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/ravi29125/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
