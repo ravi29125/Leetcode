@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ravi29125/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/ravi29125/Leetcode/tree/master/1184-car-pooling) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
+| [1219-longest-well-performing-interval](https://github.com/ravi29125/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ravi29125/My_Coding_works/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ravi29125/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ravi29125/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ravi29125/My_Coding_works/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ravi29125/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1219-longest-well-performing-interval](https://github.com/ravi29125/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1256-rank-transform-of-an-array](https://github.com/ravi29125/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ravi29125/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ravi29125/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ravi29125/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ravi29125/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ravi29125/Leetcode/tree/master/1184-car-pooling) |
+| [1219-longest-well-performing-interval](https://github.com/ravi29125/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ravi29125/My_Coding_works/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ravi29125/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ravi29125/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ravi29125/My_Coding_works/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ravi29125/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ravi29125/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1219-longest-well-performing-interval](https://github.com/ravi29125/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ravi29125/My_Coding_works/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/ravi29125/Leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravi29125/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ravi29125/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ravi29125/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ravi29125/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1219-longest-well-performing-interval](https://github.com/ravi29125/Leetcode/tree/master/1219-longest-well-performing-interval) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ravi29125/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ravi29125/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/ravi29125/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
