@@ -842,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/ravi29125/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ravi29125/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/ravi29125/My_Coding_works/tree/master/3540-hash-divided-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/ravi29125/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ravi29125/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3696-count-substrings-divisible-by-last-digit](https://github.com/ravi29125/Leetcode/tree/master/3696-count-substrings-divisible-by-last-digit) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ravi29125/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
