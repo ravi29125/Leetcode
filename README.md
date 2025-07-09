@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ravi29125/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ravi29125/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravi29125/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
 |  |
 | ------- |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ravi29125/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/ravi29125/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravi29125/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/ravi29125/Leetcode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ravi29125/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/ravi29125/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravi29125/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravi29125/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravi29125/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Segment Tree
 |  |
 | ------- |
