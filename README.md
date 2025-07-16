@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ravi29125/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ravi29125/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ravi29125/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ravi29125/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ravi29125/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ravi29125/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ravi29125/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ravi29125/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravi29125/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ravi29125/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3696-count-substrings-divisible-by-last-digit](https://github.com/ravi29125/Leetcode/tree/master/3696-count-substrings-divisible-by-last-digit) |
