@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/ravi29125/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ravi29125/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ravi29125/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravi29125/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ravi29125/My_Coding_works/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravi29125/My_Coding_works/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ravi29125/My_Coding_works/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ravi29125/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ravi29125/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravi29125/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ravi29125/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3696-count-substrings-divisible-by-last-digit](https://github.com/ravi29125/Leetcode/tree/master/3696-count-substrings-divisible-by-last-digit) |
 ## Shortest Path
