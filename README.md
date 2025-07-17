@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ravi29125/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/ravi29125/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ravi29125/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0313-super-ugly-number](https://github.com/ravi29125/Leetcode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ravi29125/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ravi29125/My_Coding_works/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ravi29125/My_Coding_works/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ravi29125/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/ravi29125/My_Coding_works/tree/master/0273-integer-to-english-words) |
+| [0313-super-ugly-number](https://github.com/ravi29125/Leetcode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/ravi29125/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/ravi29125/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/ravi29125/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ravi29125/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ravi29125/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ravi29125/Leetcode/tree/master/0139-word-break) |
+| [0313-super-ugly-number](https://github.com/ravi29125/Leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/ravi29125/My_Coding_works/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/ravi29125/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/ravi29125/My_Coding_works/tree/master/0377-combination-sum-iv) |
