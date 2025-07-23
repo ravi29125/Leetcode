@@ -8,7 +8,6 @@ class Solution {
             }else if(i==p[0] && p[1]==st.top()){
                 st.pop();
                 ans+=x;
-                //cout<<i<<endl;
             }else{
                 st.push(i);
             }
