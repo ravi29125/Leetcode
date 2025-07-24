@@ -849,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/ravi29125/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ravi29125/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/ravi29125/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/ravi29125/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ravi29125/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ravi29125/My_Coding_works/tree/master/2727-number-of-senior-citizens) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ravi29125/My_Coding_works/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/ravi29125/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ravi29125/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/ravi29125/Leetcode/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ravi29125/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ravi29125/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ravi29125/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
