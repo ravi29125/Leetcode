@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ravi29125/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ravi29125/My_Coding_works/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ravi29125/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1972-rotating-the-box](https://github.com/ravi29125/Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ravi29125/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ravi29125/My_Coding_works/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ravi29125/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ravi29125/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ravi29125/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/ravi29125/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/ravi29125/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ravi29125/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ravi29125/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ravi29125/My_Coding_works/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ravi29125/My_Coding_works/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/ravi29125/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/ravi29125/Leetcode/tree/master/1972-rotating-the-box) |
 | [2145-grid-game](https://github.com/ravi29125/Leetcode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravi29125/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ravi29125/Leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
