@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ravi29125/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ravi29125/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/ravi29125/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ravi29125/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ravi29125/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/ravi29125/My_Coding_works/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ravi29125/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/ravi29125/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ravi29125/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ravi29125/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ravi29125/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/ravi29125/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ravi29125/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ravi29125/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/ravi29125/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ravi29125/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ravi29125/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ravi29125/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ravi29125/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ravi29125/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/ravi29125/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ravi29125/My_Coding_works/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Binary Search
 |  |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ravi29125/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ravi29125/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ravi29125/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/ravi29125/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Linked List
 |  |
 | ------- |
@@ -1097,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravi29125/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ravi29125/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2605-count-anagrams](https://github.com/ravi29125/Leetcode/tree/master/2605-count-anagrams) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/ravi29125/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ravi29125/My_Coding_works/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ravi29125/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ravi29125/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
